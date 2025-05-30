@@ -7,6 +7,8 @@ My research interest includes multi-armed bandits and reinforcement learning. I 
 #### Email
 allen-w@sjtu.edu.cn
 
+runqiwang777@gmail.com
+
 #### Education
 Undergraduate, Mathematics and Applied, Shanghai Jiao Tong University, 2023-2027 (expected).
 
@@ -15,3 +17,6 @@ Multi-armed Bandits and Reinforcement Learning.
 
 #### Skills
 Python, MATLAB, C++.
+
+#### Experiences
+Rotating President of the Student Government Association of the School of Mathematical Sciences, Shanghai Jiao Tong University.
