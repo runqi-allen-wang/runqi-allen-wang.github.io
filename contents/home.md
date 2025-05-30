@@ -1,16 +1,13 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+My name is Runqi (Allen) Wang. I am now a second year undergraduate student from [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), majoring in Mathematics and Applied and Artificial Intelligence. My research interest includes multi-armed bandits and reinforcement learning. I am willing and have got fully prepared for the exploration of new areas, and I am willing to learn and share more in stochastic mathmatics like probability and stochastic process. 
 
 #### Email
-sli[at]cumt.edu.cn
+allen-w@sjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Undergrad, Mathematics and Applied, Shanghai Jiao Tong University, 2023-2027 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Multi-armed Bandits and Reinforcement Learning.
 
