@@ -21,4 +21,4 @@ Python, MATLAB, C++.
 #### Experiences
 Rotating President of the Student Government Association 
 
-School of Mathematical Sciences, Shanghai Jiao Tong University, 2025.
+SJTUSMS, 2025.
