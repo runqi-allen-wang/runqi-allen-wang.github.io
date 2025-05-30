@@ -19,4 +19,6 @@ Multi-armed Bandits and Reinforcement Learning.
 Python, MATLAB, C++.
 
 #### Experiences
-Rotating President of the Student Government Association of the School of Mathematical Sciences, Shanghai Jiao Tong University.
+Rotating President of the Student Government Association 
+
+School of Mathematical Sciences, Shanghai Jiao Tong University, 2025.
