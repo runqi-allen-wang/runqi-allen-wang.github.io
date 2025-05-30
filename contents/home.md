@@ -1,4 +1,4 @@
-
+[GitHub](https://github.com/runqi-allen-wang)
 
 My name is Runqi (Allen) Wang. I am now a second year undergraduate student from [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), majoring in Mathematics and Applied. 
 
