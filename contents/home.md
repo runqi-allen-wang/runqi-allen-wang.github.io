@@ -13,3 +13,5 @@ Undergraduate, Mathematics and Applied, Shanghai Jiao Tong University, 2023-2027
 #### Research Interests
 Multi-armed Bandits and Reinforcement Learning.
 
+#### Skills
+Python, MATLAB, C++.
