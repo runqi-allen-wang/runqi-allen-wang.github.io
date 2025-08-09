@@ -1,6 +1,6 @@
-My name is Runqi (Allen) Wang. I am now a second year undergraduate student from [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), majoring in Mathematics and Applied. 
+My name is Runqi (Allen) Wang. I am now a third year undergraduate student from [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), majoring in Mathematics and Applied. 
 
-My research interest includes multi-armed bandits and reinforcement learning. I am willing to learn and share more in stochastic mathmatics like probability and stochastic process, and I am willing and have got fully prepared for the exploration of new areas. See my [GitHub](https://github.com/runqi-allen-wang) here.
+My current research focuses on multi-armed bandits and reinforcement learning, where I explore algorithms that balance exploration and exploitation in uncertain environments. I am interested in understanding these methods better and applying them to sequential decision-making problems. For more details, please visit my [GitHub](https://github.com/runqi-allen-wang) 
 
 #### Email
 allen-w@sjtu.edu.cn
@@ -8,7 +8,7 @@ allen-w@sjtu.edu.cn
 runqiwang777@gmail.com
 
 #### Education
-Undergraduate, Mathematics and Applied, Shanghai Jiao Tong University, 2023-2027 (expected).
+Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, 2023–2027 (expected).
 
 #### Research Interests
 Multi-armed Bandits and Reinforcement Learning.
