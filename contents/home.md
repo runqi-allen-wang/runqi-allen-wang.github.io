@@ -2,7 +2,7 @@ My name is Runqi (Allen) Wang. I am now a third year undergraduate student from 
 
 My current research focuses on multi-armed bandits and reinforcement learning, where I explore algorithms that balance exploration and exploitation in uncertain environments. I am interested in understanding these methods better and applying them to sequential decision-making problems. For more details, please visit my [GitHub](https://github.com/runqi-allen-wang).
 
-0#### Email
+#### Email
 allen-w@sjtu.edu.cn
 
 runqiwang777@gmail.com
