@@ -1,4 +1,4 @@
--  \textbf{C}hina \textbf{U}ndergraduate \textbf{M}athematical \textbf{C}ontest in \textbf{M}odeling, National First Prize (Top 0.5\%), 2025.
+- **C**hina **U**ndergraduate **M**athematical **C**ontest in **M**odeling, National First Prize (Top 0.5\%), 2025.
 
 -  Mr. Guo's Scholarship of SJTU School of Mathematical Sciences, 2025.
 
