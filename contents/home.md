@@ -12,7 +12,7 @@ runqiwang777@gmail.com
 Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, 2023–2027 (expected).
 
 #### 🔍 Research Interests
-Multi-armed Bandits and Reinforcement Learning.
+Bandits and Reinforcement Learning.
 
 #### 💻 Skills
 Python, MATLAB, C++.
