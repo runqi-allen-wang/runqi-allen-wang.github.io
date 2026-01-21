@@ -4,3 +4,8 @@ Zichun Ye, **Runqi Wang**, Xutong Liu, Shuai Li.
 
 In submission.
 
+📘 Unlearning Stochastic Multi-Armed Bandits with Offline Data
+
+Zichun Ye, **Runqi Wang**(equally contribution), Xuchuang Wang, Mengfan Xu, Xutong Liu, Shuai Li, Mohammad Hajiesmaili
+
+In submission.
