@@ -9,7 +9,7 @@ allen-w@sjtu.edu.cn
 runqiwang777@gmail.com  
 
 #### 🎓 Education
-Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, 2023–2027 (expected).
+Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, September 2023 – June 2027 (expected).
 
 - GPA 3.82/4.3, Rank 5/35.
 
@@ -32,4 +32,4 @@ Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad H
 
 #### Work Experience
 
-- President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, 2025. 
+- President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, January 2025 - November 2025. 
