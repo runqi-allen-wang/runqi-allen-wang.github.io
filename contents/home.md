@@ -11,7 +11,7 @@ runqiwang777@gmail.com
 #### 🎓 Education
 Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, 2023–2027 (expected).
 
-GPA 3.82/4.3, Rank 5/35.
+- GPA 3.82/4.3, Rank 5/35.
 
 #### 🔍 Research Interests
 Bandits and Reinforcement Learning.
@@ -20,4 +20,16 @@ Bandits and Reinforcement Learning.
 Python, MATLAB, C++.
 
 #### 🏆 Experiences
-President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, 2025. 
+#### Research Experience
+
+- Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, Feburary 2025 – August 2025.
+
+Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Shuai Li, SJTU.
+
+- Unlearning Offline Stochastic Multi-Armed Bandits, October 2025 – January 2026.
+
+Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.
+
+#### Work Experience
+
+- President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, 2025. 
