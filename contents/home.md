@@ -10,6 +10,7 @@ runqiwang777@gmail.com
 
 #### 🎓 Education
 Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, 2023–2027 (expected).
+
 GPA 3.82/4.3, Rank 5/35.
 
 #### 🔍 Research Interests
