@@ -1,35 +1,40 @@
-### 👋 Profile
+## 👋 Profile
 My name is **Runqi (Allen) Wang**. I am now a third year undergraduate student from [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [**S**hanghai **J**iao **T**ong **U**niversity](https://www.sjtu.edu.cn/), majoring in Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence. 
 
-My current research focuses on multi-armed bandits and reinforcement learning, where I explore algorithms that balance exploration and exploitation in uncertain environments. I am interested in understanding these methods better and applying them to decision-making problems. For more details, please visit my [GitHub](https://github.com/runqi-allen-wang).
+My research focuses on stochastic bandits and reinforcement learning, with an emphasis on exploration–exploitation trade-offs and reliable learning under data modification. Recently, I have been particularly interested in unlearning problems with offline bandit data, where learning algorithms must support certified removal in offline bandit settings.
 
-#### 📧 Email
-allen-w@sjtu.edu.cn  
+### 📬 Contact
 
-runqiwang777@gmail.com  
+📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com  
 
-#### 🎓 Education
-Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, September 2023 – June 2027 (expected).
+🔗 GitHub: https://github.com/runqi-allen-wang
 
-- GPA 3.82/4.3, Rank 5/35.
+### 🎓 Education
+**Shanghai Jiao Tong University**  
+B.S. in Mathematics & Applied Mathematics and Artificial Intelligence  
+*Sep 2023 – Jun 2027 (expected)*  
 
-#### 🔍 Research Interests
+- GPA: **3.82 / 4.3**  
+- Rank: **5 / 35**
+
+### 🔍 Research Interests
 Bandits and Reinforcement Learning.
 
-#### 💻 Skills
+### 💻 Skills
 Python, MATLAB, C++.
 
-#### 🏆 Experiences
-#### Research Experience
+### 🏆 Experiences
 
-- Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, Feburary 2025 – August 2025.
+#### 🔬 Research Experience
 
-Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Shuai Li, SJTU.
+- Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, *Feb 2025 – Aug 2025*.
 
-- Unlearning Offline Stochastic Multi-Armed Bandits, October 2025 – January 2026.
+Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Shuai Li (Shanghai Jiao Tong University).
 
-Advisor: Prof. Xutong Liu, UW, Tacoma, Prof. Mengfan Xu, UMass, Prof. Mohammad Hajiesmaili, UMass.
+- Unlearning Offline Stochastic Multi-Armed Bandits, *Oct 2025 – Present*.
 
-#### Work Experience
+Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Mengfan Xu (University of Massachusetts Amherst), Prof. Mohammad Hajiesmaili (University of Massachusetts Amherst).
 
-- President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, January 2025 - November 2025. 
+#### 📑 Work Experience
+
+- President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, *Jan 2025 - Nov 2025*. 
