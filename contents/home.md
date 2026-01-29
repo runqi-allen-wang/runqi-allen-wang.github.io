@@ -33,7 +33,7 @@ Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Shuai Li (Sh
 
 - Unlearning Offline Stochastic Multi-Armed Bandits, *Oct 2025 – Present*.
 
-Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Mengfan Xu (University of Massachusetts Amherst), Prof. Mohammad Hajiesmaili (University of Massachusetts Amherst).
+Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Mengfan Xu (University of Massachusetts Amherst), Prof. Shuai Li (Shanghai Jiao Tong University), Prof. Mohammad Hajiesmaili (University of Massachusetts Amherst).
 
 #### 📑 Work Experience
 
