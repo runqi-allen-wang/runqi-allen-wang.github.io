@@ -31,7 +31,7 @@ Python, MATLAB, C++.
 
 Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Shuai Li (Shanghai Jiao Tong University).
 
-- Unlearning Offline Stochastic Multi-Armed Bandits, *Oct 2025 – Present*.
+- Unlearning Offline Stochastic Multi-Armed Bandits, *Oct 2025 – Feb 2026*.
 
 Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Mengfan Xu (University of Massachusetts Amherst), Prof. Shuai Li (Shanghai Jiao Tong University), Prof. Mohammad Hajiesmaili (University of Massachusetts Amherst).
 
