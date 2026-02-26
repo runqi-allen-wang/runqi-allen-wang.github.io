@@ -2,6 +2,8 @@
 
 -  Chenchen Guo's Scholarship of SJTU School of Mathematical Sciences, 2025.
 
--  B-level Scholarship of SJTU, 2024.
-
 -  The Tung Foundation's Scholarship of SJTU, 2024.
+
+-  Second-Class Scholarship of SJTU, 2024.
+
+
