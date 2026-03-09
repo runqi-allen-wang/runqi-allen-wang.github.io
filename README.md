@@ -1,22 +1,42 @@
 This is Runqi Wang's [homepage](https://runqi-allen-wang.github.io/). 
 
-### 👋 Profile
-My name is Runqi (Allen) Wang. I am now a third year undergraduate student from [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), majoring in Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence.
+## 👋 Profile
+My name is **Runqi (Allen) Wang**. I am now a third year undergraduate student from [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [**S**hanghai **J**iao **T**ong **U**niversity](https://www.sjtu.edu.cn/), majoring in Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence. 
 
-My current research focuses on multi-armed bandits and reinforcement learning, where I explore algorithms that balance exploration and exploitation in uncertain environments. I am interested in understanding these methods better and applying them to sequential decision-making problems. For more details, please visit my [GitHub](https://github.com/runqi-allen-wang).
+My research focuses on multi-armed bandit and reinforcement learning, with an emphasis on exploration–exploitation trade-offs and reliable learning under data modification. Recently, I have been particularly interested in unlearning problems with offline bandit data, where learning algorithms must support certified removal in offline bandit settings.
 
-#### 📧 Email
-allen-w@sjtu.edu.cn  
-runqiwang777@gmail.com  
+### 📬 Contact
 
-#### 🎓 Education
-Undergraduate, Double Major in Mathematics and Applied Mathematics, and Artificial Intelligence, Shanghai Jiao Tong University, 2023–2027 (expected).
+📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com  
 
-#### 🔍 Research Interests
-Multi-armed Bandits and Reinforcement Learning.
+🔗 GitHub: https://github.com/runqi-allen-wang
 
-#### 💻 Skills
+### 🎓 Education
+**Shanghai Jiao Tong University**  
+B.S. in Mathematics & Applied Mathematics and Artificial Intelligence  
+*Sep 2023 – Jun 2027 (expected)*  
+
+- GPA: **3.82 / 4.3**  
+- Rank: **5 / 35**
+
+### 🔍 Research Interests
+Bandits and Reinforcement Learning.
+
+### 💻 Skills
 Python, MATLAB, C++.
 
-#### 🏆 Experiences
-President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, 2025.
+### 🏆 Experiences
+
+#### 🔬 Research Experience
+
+- Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, *Feb 2025 – Aug 2025*.
+
+Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Shuai Li (Shanghai Jiao Tong University).
+
+- Unlearning Offline Stochastic Multi-Armed Bandits, *Oct 2025 – Feb 2026*.
+
+Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Mengfan Xu (University of Massachusetts Amherst), Prof. Shuai Li (Shanghai Jiao Tong University), Prof. Mohammad Hajiesmaili (University of Massachusetts Amherst).
+
+#### 📑 Work Experience
+
+- President of the Student Government Association of School of Mathematical Sciences, Shanghai Jiao Tong University, *Jan 2025 - Nov 2025*. 
