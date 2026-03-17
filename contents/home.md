@@ -29,11 +29,11 @@ Python, MATLAB, C++.
 
 - Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, *Feb 2025 – Aug 2025*.
 
-Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Shuai Li (Shanghai Jiao Tong University).
+Advisor: Prof. [Xutong Liu](xutongliu.me) (University of Washington, Tacoma), Prof. [Shuai Li](shuaili8.github.io) (Shanghai Jiao Tong University).
 
 - Unlearning Offline Stochastic Multi-Armed Bandits, *Oct 2025 – Feb 2026*.
 
-Advisor: Prof. Xutong Liu (University of Washington, Tacoma), Prof. Mengfan Xu (University of Massachusetts Amherst), Prof. Shuai Li (Shanghai Jiao Tong University), Prof. Mohammad Hajiesmaili (University of Massachusetts Amherst).
+Advisor: Prof. Xutong Liu, Postdoc. [Xuchuang Wang](xuchuangw.com) (University of Massachusetts Amherst, i.e. UMass), Prof. [Mengfan Xu](mengfanxu1997.github.io) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](groups.cs.umass.edu/hajiesmaili/) (UMass).
 
 #### 📑 Work Experience
 
