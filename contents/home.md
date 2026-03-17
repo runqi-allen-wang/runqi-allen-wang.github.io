@@ -33,7 +33,7 @@ Advisor: Prof. [Xutong Liu](xutongliu.me) (University of Washington, Tacoma), Pr
 
 - Unlearning Offline Stochastic Multi-Armed Bandits, *Oct 2025 – Feb 2026*.
 
-Advisor: Prof. Xutong Liu, Postdoc. [Xuchuang Wang](xuchuangw.com) (University of Massachusetts Amherst, i.e. UMass), Prof. [Mengfan Xu](mengfanxu1997.github.io) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](groups.cs.umass.edu/hajiesmaili/) (UMass).
+Advisor: Prof. Xutong Liu, Prof. [Mengfan Xu](mengfanxu1997.github.io) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](groups.cs.umass.edu/hajiesmaili/) (UMass).
 
 #### 📑 Work Experience
 
