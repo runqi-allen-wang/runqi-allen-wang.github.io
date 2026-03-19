@@ -5,12 +5,12 @@ My research focuses on multi-armed bandit and reinforcement learning, with an em
 
 ### 📬 Contact
 
-📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com   \   🔗 GitHub: https://github.com/runqi-allen-wang
+📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com   &ensp   🔗 GitHub: https://github.com/runqi-allen-wang
 
 ### 🎓 Education
-**Shanghai Jiao Tong University**  \  B.S. in Mathematics & Applied Mathematics and Artificial Intelligence  \  *Sep 2023 – Jun 2027 (expected)*  
+**Shanghai Jiao Tong University**  &ensp  B.S. in Mathematics & Applied Mathematics and Artificial Intelligence  &ensp  *Sep 2023 – Jun 2027 (expected)*  
 
-GPA: **3.82 / 4.3**  \  Weighted Rank: **2 / 37**
+GPA: **3.82 / 4.3**  &ensp  Weighted Rank: **2 / 37**
 
 ### 🔍 Research Interests
 Bandits and Reinforcement Learning.
