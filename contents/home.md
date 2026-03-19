@@ -16,7 +16,7 @@ My research focuses on multi-armed bandit and reinforcement learning, with an em
 Bandits and Reinforcement Learning.
 
 ### 💻 Skills
-Python > MATLAB = C++.
+Python > C++ = MATLAB.
 
 ### 🏆 Experiences
 
