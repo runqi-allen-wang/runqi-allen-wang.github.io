@@ -22,7 +22,7 @@ B.S. in Mathematics & Applied Mathematics and Artificial Intelligence
 *Sep 2023 – Jun 2027 (expected)*  
 
 - GPA: **3.82 / 4.3**
-- Weighted Rank: **2 / 37**
+- GPA Rank: **5 / 37**
 
 ### 🔍 Research Interests
 Bandits and Reinforcement Learning.
