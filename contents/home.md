@@ -8,9 +8,9 @@ My research interests lie in **multi-armed bandits** and **reinforcement learnin
 
 我的研究方向主要是 **多臂老虎机（multi-armed bandits）** 和 **强化学习（reinforcement learning）**，尤其关注探索与利用之间的权衡，以及数据修改情形下的可靠学习问题。最近，我对 **offline bandit data 下的 unlearning 问题** 特别感兴趣，即如何让学习算法在离线 bandit 场景中支持可认证的数据删除。
 
-I am eager to explore opportunities at the intersection of **academia and industry**, and I hope to work on problems that are both theoretically grounded and practically meaningful. I am also always happy to meet new people, exchange ideas, and discuss research or related topics — feel free to reach out!
+I am actively seeking **PhD and research-oriented master’s opportunities for Fall 2027**, with a strong interest in pursuing a long-term research-oriented career. I am particularly interested in problems at the **intersection of academia and industry**, where strong theoretical foundations can drive practical impact. I remain open to opportunities that bridge these two domains and allow me to contribute to both rigorous research and real-world applications. I am also always happy to meet new people, exchange ideas, and discuss research or related topics — feel free to reach out!
 
-我也非常期待探索 **学术界与工业界** 的机会，希望能够研究既有坚实理论基础、又具有实际意义的问题。同时，我也很乐意结识新朋友、交流想法、讨论研究或相关话题，欢迎随时与我联系！
+我目前正在积极寻找 **2027年秋季入学的博士或研究型硕士机会**，并希望长期从事科研导向的工作。我尤其关注**学术界与工业界交叉**的问题，希望能够将扎实的理论基础转化为具有实际影响力的成果。我对能够连接这两个领域的机会保持开放态度，并希望在严谨的学术研究与真实世界应用之间做出贡献。同时，我也非常乐意结识新朋友、交流想法、讨论研究或相关话题，欢迎随时与我联系！
 ### 📬 Contact
 
 📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com   
