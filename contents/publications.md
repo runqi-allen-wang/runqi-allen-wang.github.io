@@ -1,4 +1,4 @@
-📘 [Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits](https://dblp.org/rec/journals/corr/abs-2508-06247.html)
+📘 [Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits](https://arxiv.org/abs/2508.06247)
 
 [Zichun Ye](https://alchemistye.github.io/), **Runqi Wang**, Xutong Liu, Shuai Li.
 
