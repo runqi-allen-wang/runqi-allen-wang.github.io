@@ -1,4 +1,4 @@
--  **M**athematical **C**ontest in **M**odeling, Finalist Prize (Top 1\%), 2026.
+-  The **M**athematical **C**ontest in **M**odeling, Finalist Prize (Top 1\%), 2026.
 
 -  **C**hina **U**ndergraduate **M**athematical **C**ontest in **M**odeling, National First Prize (Top 0.5\%), 2025.
 
