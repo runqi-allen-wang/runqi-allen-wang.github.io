@@ -24,7 +24,7 @@ Python, C++, MATLAB.
 
 ## 🏆 Experiences
 
-#### 🔬 Research Experience
+### 🔬 Research Experience
 
 - Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, *Feb 2025 – Jun 2025*.
 
@@ -34,6 +34,6 @@ Advisor: Prof. [Xutong Liu](https://xutongliu.me/) (UW, Tacoma), Prof. [Shuai Li
 
 Advisor: Prof. Xutong Liu, Prof. [Xuchuang Wang](https://xuchuangw.com/) (HKBU), Prof. [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) (UMass).
 
-#### 📑 Work Experience
+### 📑 Work Experience
 
 - President of the Student Union of School of Mathematical Sciences, Shanghai Jiao Tong University, *Dec 2024 - Nov 2025*. 
