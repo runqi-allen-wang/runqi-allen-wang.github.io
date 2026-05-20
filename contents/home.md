@@ -34,6 +34,10 @@ Advisor: Prof. [Xutong Liu](https://xutongliu.me/) (UW, Tacoma), Prof. [Shuai Li
 
 Advisor: Prof. Xutong Liu, Prof. [Xuchuang Wang](https://xuchuangw.com/) (HKBU), Prof. [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) (UMass).
 
-### 📑 Work Experience
+### 🏢 Work Experience
 
 - President of the Student Union of School of Mathematical Sciences, Shanghai Jiao Tong University, *Dec 2024 - Nov 2025*. 
+
+### 🚀 Project
+
+- 📈 [Deep Learning Stock Alpha](https://github.com/runqi-allen-wang/deep-learning-stock-alpha), *May 2026 - Jun 2026*.
