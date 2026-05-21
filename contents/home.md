@@ -4,8 +4,7 @@ My name is **Runqi (Allen) Wang**. I am currently a third-year undergraduate stu
 I am currently preparing for **graduate study starting in Fall 2027**, with a strong interest in pursuing a long-term research-oriented career. I am also actively seeking **research or quantitative internship opportunities for Summer 2026**. I am particularly interested in problems at the intersection of academia and industry, where strong theoretical foundations can drive practical impact. I remain open to opportunities that bridge these two domains and allow me to contribute to both rigorous research and real-world applications. I am also always happy to meet new people, exchange ideas, and discuss research or related topics — feel free to reach out!
 
 ## 📬 Contact
-📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com   
-🔗 GitHub: https://github.com/runqi-allen-wang
+📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com         🔗 GitHub: https://github.com/runqi-allen-wang
 
 ## 🎓 Education
 **Shanghai Jiao Tong University**  
