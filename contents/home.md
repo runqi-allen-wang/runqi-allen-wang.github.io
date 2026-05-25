@@ -28,4 +28,4 @@ Advisor: Prof. Xutong Liu, Prof. [Xuchuang Wang](https://xuchuangw.com/) (HKBU),
 - [President of the Student Union of School of Mathematical Sciences](https://mp.weixin.qq.com/s/kDj2YUGfTdZ5QIB7F5E0Cg), Shanghai Jiao Tong University, *Dec 2024 - Nov 2025*. 
 
 ## 🚀 Project
-- 📈 [Deep Learning Stock Alpha](https://github.com/runqi-allen-wang/deep-learning-stock-alpha), *May 2026 - Jun 2026*.
+- 📈 [Deep Sequential Models for Cross-Sectional Stock Selection](https://github.com/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection), *May 2026 - Jun 2026*.
