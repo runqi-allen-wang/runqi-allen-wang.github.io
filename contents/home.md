@@ -17,18 +17,3 @@ My research interests broadly lie in **machine learning, quantitative finance, a
 ## 💻 Skills
 Python, C++, MATLAB.
 
-## 🔬 Research Experience
-- Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, *Feb 2025 – Jun 2025*.
-  
-Advisor: Prof. [Xutong Liu](https://xutongliu.me/) (UW, Tacoma), Prof. [Shuai Li](https://shuaili8.github.io/) (SJTU).
-
-- Unlearning Offline Stochastic Multi-Armed Bandits, *Jul 2025 – Feb 2026*.
-
-Advisor: Prof. Xutong Liu, Prof. [Xuchuang Wang](https://xuchuangw.com/) (HKBU), Prof. [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) (UMass).
-
-## 🏢 Work Experience
-- [President of the Student Union of School of Mathematical Sciences](https://mp.weixin.qq.com/s/kDj2YUGfTdZ5QIB7F5E0Cg), Shanghai Jiao Tong University, *Dec 2024 - Nov 2025*. 
-
-## 🚀 Project
-- 📈 [Deep Sequential Models for Cross-Sectional Stock Selection](https://github.com/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection), *May 2026 - Jun 2026*.
-- 🌊 [Neural Operator Learning for Navier-Stokes PDEs](https://github.com/runqi-allen-wang/Neural-Operator-Learning-for-Navier-Stokes-PDEs), *May 2026*.
