@@ -1,6 +1,8 @@
-[![GitHub](https://img.shields.io/badge/GitHub-runqi--allen--wang-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runqi-allen-wang)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Runqi%20Wang-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=yVI9KikAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Runqi%20Wang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%B6%A6%E7%A5%BA-%E7%8E%8B-4352a03a7/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=yVI9KikAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0029-4575)
+[![OpenReview](https://img.shields.io/badge/OpenReview-8A2BE2?style=flat-square&logo=openreview&logoColor=white)](https://openreview.net/profile?id=%7ERunqi_Wang5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runqi-allen-wang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%B6%A6%E7%A5%BA-%E7%8E%8B-4352a03a7/)
 
 ## 👋 Profile
 My name is **Runqi (Allen) Wang**. I am currently a third-year undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [**S**hanghai **J**iao **T**ong **U**niversity](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
