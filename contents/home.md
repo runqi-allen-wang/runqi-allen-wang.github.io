@@ -1,3 +1,6 @@
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runqi-allen-wang)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=yVI9KikAAAAJ&hl=en)
+
 ## 👋 Profile
 My name is **Runqi (Allen) Wang**. I am currently a third-year undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [**S**hanghai **J**iao **T**ong **U**niversity](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
 
@@ -6,8 +9,6 @@ I am currently preparing for **graduate study starting in Fall 2027**, with a st
 ## 📬 Contact
 📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com         
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runqi-allen-wang)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=yVI9KikAAAAJ&hl=en)
 ## 🎓 Education
 **Shanghai Jiao Tong University**  
 B.S. in Mathematics & Applied Mathematics and Artificial Intelligence  |  *Sep 2023 – Jun 2027 (expected)*  
