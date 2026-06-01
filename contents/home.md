@@ -1,5 +1,6 @@
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runqi-allen-wang)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=yVI9KikAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-runqi--allen--wang-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runqi-allen-wang)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Runqi%20Wang-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=yVI9KikAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Runqi%20Wang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%B6%A6%E7%A5%BA-%E7%8E%8B-4352a03a7/)
 
 ## 👋 Profile
 My name is **Runqi (Allen) Wang**. I am currently a third-year undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [**S**hanghai **J**iao **T**ong **U**niversity](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
@@ -7,7 +8,7 @@ My name is **Runqi (Allen) Wang**. I am currently a third-year undergraduate stu
 I am currently preparing for **graduate study starting in Fall 2027**, with a strong interest in pursuing a long-term research-oriented career. I am also actively seeking **research or quantitative internship opportunities for Summer 2026**. I am particularly interested in problems at the intersection of academia and industry, where strong theoretical foundations can drive practical impact. I remain open to opportunities that bridge these two domains and allow me to contribute to both rigorous research and real-world applications. I am also always happy to meet new people, exchange ideas, and discuss research or related topics — feel free to reach out!
 
 ## 📬 Contact
-📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com         
+📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com  
 
 ## 🎓 Education
 **Shanghai Jiao Tong University**  
