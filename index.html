@@ -8,6 +8,21 @@
     <meta name="author" content="senli1073" />
     <title id="title"></title>
 
+    <!-- Theme: apply saved light/dark mode before CSS loads -->
+    <script>
+        (function () {
+            try {
+                const savedTheme = localStorage.getItem('theme');
+                const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+                const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+                document.documentElement.setAttribute('data-theme', theme);
+            } catch (e) {
+                document.documentElement.setAttribute('data-theme', 'light');
+            }
+        })();
+    </script>
+
+
     <!-- Icon -->
     <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
 
@@ -69,18 +84,9 @@
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <!-- Core JS-->
-    <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+    <script type="text/javascript" src="static/js/scripts.js"></script>
 
-    <!-- Theme: apply saved light/dark mode before CSS loads -->
-    <script>
-        (function () {
-            const savedTheme = localStorage.getItem('theme');
-            const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-            const theme = savedTheme || (prefersDark ? 'dark' : 'light');
-            document.documentElement.setAttribute('data-theme', theme);
-        })();
-    </script>
 
 </head>
 
