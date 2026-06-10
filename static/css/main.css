@@ -109,4 +109,44 @@ section .main-body{
     }
 }
 
+.entry-card {
+    display: flex;
+    gap: 1.2rem;
+    align-items: flex-start;
+    margin: 1.4rem 0 2rem 0;
+}
+
+.entry-card img {
+    width: 180px;
+    height: 115px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+    flex-shrink: 0;
+}
+
+.entry-card .entry-text {
+    flex: 1;
+}
+
+.entry-card .entry-title {
+    margin: 0 0 0.4rem 0;
+    font-weight: 500;
+}
+
+.entry-card .entry-meta {
+    margin: 0.2rem 0;
+}
+
+@media screen and (max-width: 768px) {
+    .entry-card {
+        flex-direction: column;
+    }
+
+    .entry-card img {
+        width: 100%;
+        height: auto;
+        max-height: 220px;
+    }
+}
 
