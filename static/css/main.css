@@ -117,15 +117,15 @@ section .main-body{
 }
 
 .entry-card img {
-    width: 220px;
-    height: auto;
-    max-height: 160px;
+    width: 240px;
+    height: 150px;
     object-fit: contain;
+    background-color: #f8f9fa;
     border-radius: 10px;
+    padding: 6px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
     flex-shrink: 0;
 }
-
 .entry-card .entry-text {
     flex: 1;
 }
@@ -150,4 +150,3 @@ section .main-body{
         max-height: none;
     }
 }
-
