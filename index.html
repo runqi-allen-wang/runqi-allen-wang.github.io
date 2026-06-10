@@ -72,6 +72,16 @@
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
+    <!-- Theme: apply saved light/dark mode before CSS loads -->
+    <script>
+        (function () {
+            const savedTheme = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+        })();
+    </script>
+
 </head>
 
 <body id="page-top">
@@ -109,6 +119,12 @@
                            target="_blank">
                            <i class="bi bi-file-earmark-person"></i> CV
                         </a>
+                    </li>
+                    <li class="nav-item theme-nav-item">
+                        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch color mode">
+                            <i id="theme-toggle-icon" class="bi bi-moon-stars"></i>
+                            <span id="theme-toggle-text">Dark</span>
+                        </button>
                     </li>
 
                 </ul>
