@@ -25,5 +25,6 @@ GPA: **3.82 / 4.3**  |  Weighted Rank: **2 / 37**  |  GPA Rank: **5 / 37**
 My research interests broadly lie in **machine learning, quantitative finance, and statistics**, with a particular focus on **decision-making problems in theory** and **AI for quantitative finance in application**. I am interested in sequential decision-making problems such as multi-armed bandits and reinforcement learning, especially exploration–exploitation trade-offs, reliable learning under data modification, and theoretically grounded learning algorithms. Meanwhile, I am also interested in applying machine learning and statistical methods to quantitative research, including data-driven strategy design, financial modeling, and AI-assisted decision-making in financial markets.
 
 ## 💻 Skills
-Python, C++, MATLAB, html, CSS, JavaScript.
+**Programming Languages:** Python, C++, MATLAB  
+**Web Development:** HTML, CSS, JavaScript
 
