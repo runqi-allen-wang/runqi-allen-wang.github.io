@@ -1,29 +1,93 @@
 @import "./styles.css";
 
-
 :root {
     --h-title-color: #3948d2;
     --page-bg: #ffffff;
     --text-color: #212529;
+    --muted-text-color: #4f5965;
+    --link-color: #2937f0;
+    --link-hover-color: #1b24a8;
+    --nav-bg: rgba(255, 255, 255, 0.96);
+    --nav-text-color: #212529;
     --section-light-start: #fcfcfc;
     --section-light-end: #ffffff;
     --section-gray-start: #f0f0f0;
     --section-gray-end: #f1f1f1;
+    --image-bg: #f8f9fa;
+    --card-shadow: rgba(0, 0, 0, 0.15);
 }
 
 html[data-theme="dark"] {
     --h-title-color: #9aa5ff;
     --page-bg: #0f1117;
     --text-color: #e6e8ef;
+    --muted-text-color: #c4c8d4;
+    --link-color: #a7b0ff;
+    --link-hover-color: #d0d5ff;
+    --nav-bg: rgba(15, 17, 23, 0.96);
+    --nav-text-color: #eef1f7;
     --section-light-start: #111827;
     --section-light-end: #151a24;
     --section-gray-start: #171c27;
     --section-gray-end: #1c2230;
+    --image-bg: #242b38;
+    --card-shadow: rgba(0, 0, 0, 0.45);
+}
+
+body {
+    background-color: var(--page-bg);
+    color: var(--text-color);
+}
+
+a {
+    color: var(--link-color);
+}
+
+a:hover {
+    color: var(--link-hover-color);
 }
 
 .header {
     border-bottom: solid 2px var(--bs-blue);
     z-index: 10000;
+    background-color: var(--nav-bg) !important;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+    color: var(--nav-text-color) !important;
+}
+
+.navbar-light .navbar-toggler {
+    color: var(--nav-text-color);
+    border-color: rgba(128, 128, 128, 0.35);
+}
+
+html[data-theme="dark"] .shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .35) !important;
+}
+
+.theme-nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.theme-toggle {
+    border: 1px solid rgba(128, 128, 128, 0.35);
+    background: transparent;
+    color: var(--nav-text-color);
+    border-radius: 999px;
+    padding: 0.35rem 0.75rem;
+    font-size: 0.9rem;
+    line-height: 1.2;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    cursor: pointer;
+}
+
+.theme-toggle:hover {
+    background-color: rgba(128, 128, 128, 0.12);
 }
 
 .bg-bottom {
@@ -57,6 +121,10 @@ html[data-theme="dark"] {
     background: rgba(0, 0, 0, 0.5);
 }
 
+section {
+    color: var(--text-color);
+}
+
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
@@ -65,21 +133,25 @@ section header h2{
 }
 
 section .main-body{
+    color: var(--text-color);
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
 }
 
+section .main-body p,
+section .main-body li,
+.entry-card .entry-meta {
+    color: var(--text-color);
+}
 
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
+    background: linear-gradient(45deg, var(--section-light-start), var(--section-light-end)) !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+    background: linear-gradient(45deg, var(--section-gray-start), var(--section-gray-end)) !important;
 }
-
-
 
 .on-top {
     position: relative;
@@ -102,7 +174,6 @@ section .main-body{
     height: 100%;
     background: rgba(0, 0, 0, 0.4);
 }
-
 
 #avatar {
     position: relative;
@@ -136,12 +207,13 @@ section .main-body{
     width: 240px;
     height: 150px;
     object-fit: contain;
-    background-color: #f8f9fa;
+    background-color: var(--image-bg);
     border-radius: 10px;
     padding: 6px;
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 14px var(--card-shadow);
     flex-shrink: 0;
 }
+
 .entry-card .entry-text {
     flex: 1;
 }
@@ -164,5 +236,9 @@ section .main-body{
         width: 100%;
         height: auto;
         max-height: none;
+    }
+
+    .theme-nav-item {
+        margin-top: 0.5rem;
     }
 }
