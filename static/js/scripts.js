@@ -4,6 +4,15 @@ const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'publications', 'projects', 'experience', 'awards']
 
+const themeToggle = document.getElementById('theme-toggle');
+
+themeToggle.addEventListener('click', () => {
+    const oldTheme = document.documentElement.getAttribute('data-theme') || 'light';
+    const newTheme = oldTheme === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+});
+
 
 window.addEventListener('DOMContentLoaded', event => {
 
@@ -63,3 +72,5 @@ window.addEventListener('DOMContentLoaded', event => {
     })
 
 }); 
+
+
