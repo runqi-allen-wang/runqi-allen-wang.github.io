@@ -1,8 +1,24 @@
 @import "./styles.css";
 
 
-:root{
-    --h-title-color:#3948d2;
+:root {
+    --h-title-color: #3948d2;
+    --page-bg: #ffffff;
+    --text-color: #212529;
+    --section-light-start: #fcfcfc;
+    --section-light-end: #ffffff;
+    --section-gray-start: #f0f0f0;
+    --section-gray-end: #f1f1f1;
+}
+
+html[data-theme="dark"] {
+    --h-title-color: #9aa5ff;
+    --page-bg: #0f1117;
+    --text-color: #e6e8ef;
+    --section-light-start: #111827;
+    --section-light-end: #151a24;
+    --section-gray-start: #171c27;
+    --section-gray-end: #1c2230;
 }
 
 .header {
