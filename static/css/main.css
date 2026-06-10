@@ -117,9 +117,10 @@ section .main-body{
 }
 
 .entry-card img {
-    width: 180px;
-    height: 115px;
-    object-fit: cover;
+    width: 220px;
+    height: auto;
+    max-height: 160px;
+    object-fit: contain;
     border-radius: 10px;
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
     flex-shrink: 0;
@@ -146,7 +147,7 @@ section .main-body{
     .entry-card img {
         width: 100%;
         height: auto;
-        max-height: 220px;
+        max-height: none;
     }
 }
 
