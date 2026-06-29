@@ -11,7 +11,7 @@
 ## 👋 Profile
 My name is **Runqi (Allen) Wang**. I am currently a third-year undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [**S**hanghai **J**iao **T**ong **U**niversity](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
 
-I will be joining the PhD program in Statistics at Shanghai Jiao Tong University in Fall 2027, under the supervision of Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/). My long-term goal is to pursue a research-oriented career, with interests in machine learning, statistics, and quantitative finance. I am particularly interested in problems at the intersection of academia and industry, where strong theoretical foundations can lead to practical impact. I remain open to opportunities that bridge rigorous research and real-world applications, and I am always happy to meet new people, exchange ideas, and discuss research or related topics — feel free to reach out!
+I will be joining the PhD program in Statistics at Shanghai Jiao Tong University in Fall 2027, under the supervision of Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/). I am particularly interested in problems at the intersection of academia and industry, where strong theoretical foundations can lead to practical impact. I remain open to opportunities that bridge rigorous research and real-world applications, and I am always happy to meet new people, exchange ideas, and discuss research or related topics — feel free to reach out!
 
 
 ## 📬 Contact
