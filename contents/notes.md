@@ -3,7 +3,5 @@
         <p class="entry-title">
             📝 <a href="https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7" target="_blank" rel="noopener noreferrer">Multi-Asset Portfolio Management Mini-Course Notes</a>
         </p>
-        <p class="entry-meta"><em>July 2026</em>.</p>
-        <p class="entry-meta">Bilingual notes for the short-term course Multi-Asset Portfolio Management.</p>
-    </div>
+        <p class="entry-meta"><em>July 2026</em>, [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/).</p>
 </div>
