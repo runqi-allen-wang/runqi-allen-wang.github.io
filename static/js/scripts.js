@@ -1,6 +1,6 @@
 const content_dir = 'contents/';
 const config_file = 'config.yml';
-const section_names = ['home', 'publications', 'projects', 'experience', 'awards'];
+const section_names = ['home', 'publications', 'projects', 'notes', 'experience', 'awards'];
 
 function setTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
