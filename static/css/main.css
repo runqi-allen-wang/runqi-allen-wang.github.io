@@ -223,6 +223,10 @@ section .main-body li,
     font-weight: 500;
 }
 
+.note-entry {
+    display: block;
+}
+
 .entry-card .entry-meta {
     margin: 0.2rem 0;
 }
