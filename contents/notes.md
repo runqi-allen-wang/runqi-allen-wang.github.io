@@ -8,3 +8,14 @@
         </p>
     </div>
 </div>
+
+<div class="entry-card note-entry">
+    <div class="entry-text">
+        <p class="entry-title">
+            📝 <a href="https://github.com/runqi-allen-wang/Quant-Research-Report-Notes" target="_blank" rel="noopener noreferrer">Quant Research Report Notes</a>
+        </p>
+        <p class="entry-meta">
+            <em>July 2026 - present</em>.
+        </p>
+    </div>
+</div>
