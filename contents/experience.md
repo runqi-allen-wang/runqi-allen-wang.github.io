@@ -11,7 +11,7 @@
 
 ## 🏢 Work Experience
 
-- Intern of Yuewei Fund, Shanghai, *Jul 2026 -- present*.
+- Quant Research Intern of Yuewei Fund, Shanghai, *Jul 2026 -- present*.
 
 - President of [the Student Union of School of Mathematical Sciences](https://mp.weixin.qq.com/s/kDj2YUGfTdZ5QIB7F5E0Cg), Shanghai Jiao Tong University, *Dec 2024 -- Nov 2025*.
   
