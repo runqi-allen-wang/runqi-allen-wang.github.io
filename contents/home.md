@@ -15,7 +15,7 @@ I will be joining the PhD program in [Statistics](https://math.sjtu.edu.cn/Defau
 
 
 ## 📬 Contact
-📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com  
+📧 allen-w@sjtu.edu.cn *(prefer)* | runqiwang777@gmail.com  
 
 ## 🎓 Education
 **Shanghai Jiao Tong University**  
