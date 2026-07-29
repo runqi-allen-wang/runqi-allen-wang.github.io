@@ -3,7 +3,7 @@
 [![OpenReview](https://img.shields.io/badge/OpenReview-8A2BE2?style=flat-square&logo=openreview&logoColor=white)](https://openreview.net/profile?id=%7ERunqi_Wang5)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runqi-allen-wang)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/runqiallenwang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%B6%A6%E7%A5%BA-%E7%8E%8B-4352a03a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/runqi-wang-4352a03a7/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2045459713)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/53-12-22-94-13)
 [![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/64ac022b000000001001ebb3)
