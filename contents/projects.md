@@ -17,3 +17,13 @@
         <p class="entry-meta"><em>May 2026</em>.</p>
     </div>
 </div>
+
+<div class="entry-card">
+    <img src="static/assets/img/projects/AlphaLens.png" alt="QR Agent Skill Project">
+    <div class="entry-text">
+        <p class="entry-title">
+            🤖 <a href="https://github.com/runqi-allen-wang/AlphaLens-A-Lightweight-Skill-based-Framework-for-Quantitative-Research-Analysis">AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis</a>
+        </p>
+        <p class="entry-meta"><em>July 2026</em>.</p>
+    </div>
+</div>
