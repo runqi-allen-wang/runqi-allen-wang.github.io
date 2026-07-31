@@ -15,7 +15,7 @@
             📝 <a href="https://github.com/runqi-allen-wang/Quant-Research-Report-Notes" target="_blank" rel="noopener noreferrer">Quant Research Report Notes</a>
         </p>
         <p class="entry-meta">
-            <em>July 2026 - present</em>, personal.
+            <em>July 2026 - present</em>, personal, assisted by <a href="https://github.com/runqi-allen-wang/AlphaLens-A-Lightweight-Skill-based-Framework-for-Quantitative-Research-Analysis" target="_blank" rel="noopener noreferrer">AlphaLens</a>.
         </p>
     </div>
 </div>
