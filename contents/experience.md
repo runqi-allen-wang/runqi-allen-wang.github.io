@@ -18,10 +18,10 @@
 
 ## 📚 Selected Academic Programs
 
-- **Participant**, [Multi-Asset Portfolio Management Mini-Course](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7), *Jul 2026*. [📝 Notes](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7)
-  
-  Taught by Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/) (Columbia University), and organized by Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/).
+- **Participant**, Multi-Asset Portfolio Management Mini-Course, *Jul 2026*. [📝 Notes](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7)
+
+  Instructor: Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/) (Columbia University). Organizer: Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/).
 
 - **Participant**, [SJTU AI4Math Summer School](https://sjtu-ai4math.github.io/summer-school/2026), *Aug 2026*.
-  
-  Organized by Prof. [Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0), Prof. Jingwei Liang, Prof. Jing An.
+
+  Organizers: Prof. [Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0), Prof. Jingwei Liang, Prof. Jing An.
