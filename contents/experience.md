@@ -20,7 +20,7 @@
 
 - **Participant**, [Multi-Asset Portfolio Management Mini-Course](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7), *Jul 2026*.
   
-  Taught by Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/), Columbia University Mathematics of Finance MA Program, and organized by Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/).
+  Taught by Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/) (Columbia University), and organized by Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/).
 
 - **Participant**, [SJTU AI4Math Summer School](https://sjtu-ai4math.github.io/summer-school/2026), *Aug 2026*.
   
