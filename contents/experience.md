@@ -1,17 +1,17 @@
 ## 🔬 Research Experience
 
-- Unlearning Offline Stochastic Multi-Armed Bandits, *Jul 2025 -- Feb 2026*.
+* **Unlearning Offline Stochastic Multi-Armed Bandits**, *Jul 2025 -- Feb 2026*.
 
   Advisor: Prof. Xutong Liu, Prof. [Xuchuang Wang](https://xuchuangw.com/) (HKBU), Prof. [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) (UMass).
-  
-- Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits, *Feb 2025 -- Jun 2025*.
-  
-  Advisor: Prof. [Xutong Liu](https://xutongliu.me/) (UW, Tacoma), Prof. [Shuai Li](https://shuaili8.github.io/) (SJTU).
 
+* **Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits**, *Feb 2025 -- Jun 2025*.
 
-## 🏢 Work Experience
+  Advisor: Prof. [Xutong Liu](https://xutongliu.me/) (UW Tacoma), Prof. [Shuai Li](https://shuaili8.github.io/) (SJTU).
 
-- Quant Research Intern of [Yuewei Private Equity Fund Management](https://yueweisimu.com/), Shanghai, *Jul 2026 -- present*.
+## 🏢 Industry Experience
 
-- President of [the Student Union of School of Mathematical Sciences](https://mp.weixin.qq.com/s/kDj2YUGfTdZ5QIB7F5E0Cg), Shanghai Jiao Tong University, *Dec 2024 -- Nov 2025*.
-  
+* **Quantitative Research Intern**, [Yuewei Private Equity Fund Management](https://yueweisimu.com/), Shanghai, *Jul 2026 -- present*.
+
+## 🏛️ Leadership Experience
+
+* **President**, [Student Union of the School of Mathematical Sciences](https://mp.weixin.qq.com/s/kDj2YUGfTdZ5QIB7F5E0Cg), Shanghai Jiao Tong University, *Dec 2024 -- Nov 2025*.
