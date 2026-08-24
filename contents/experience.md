@@ -15,3 +15,11 @@
 ## 🏛️ Leadership Experience
 
 * **President**, [Student Union of the School of Mathematical Sciences](https://mp.weixin.qq.com/s/kDj2YUGfTdZ5QIB7F5E0Cg), Shanghai Jiao Tong University, *Dec 2024 -- Nov 2025*.
+
+## 📚 Selected Academic Programs
+
+- **Participant**, [Multi-Asset Portfolio Management Mini-Course](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7), *Jul 2026*.  
+  Taught by Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/), Columbia University Mathematics of Finance MA Program.
+
+- **Participant**, [SJTU AI4Math Summer School](https://sjtu-ai4math.github.io/summer-school/2026), *Aug 2026*.
+  Organized by Prof. [Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0), Prof. Jingwei Liang, Prof. Jing An.
