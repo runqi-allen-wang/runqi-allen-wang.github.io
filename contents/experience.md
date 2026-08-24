@@ -18,7 +18,7 @@
 
 ## 📚 Selected Academic Programs
 
-- **Participant**, [Multi-Asset Portfolio Management Mini-Course](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7), *Jul 2026*.
+- **Participant**, [Multi-Asset Portfolio Management Mini-Course](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7), *Jul 2026*. [📝 Notes](https://github.com/runqi-allen-wang/Multi-Asset-Portfolio-Management-Mini-Course-2026-7)
   
   Taught by Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/) (Columbia University), and organized by Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/).
 
