@@ -26,4 +26,4 @@ My research interests broadly lie in **machine learning, statistics, AI agents, 
 
 ## 💻 Skills
 **Programming:** Python, C++, MATLAB  |  **Machine Learning & Data:** PyTorch, NumPy, pandas, scikit-learn, SciPy, Matplotlib  
-**Research & Development:** Git, GitHub, LaTeX, Jupyter, Anaconda, Linux  |  **Web Development:** HTML, CSS, JavaScript
+**Research & Development:** Git, GitHub, LaTeX, Jupyter, Anaconda, Linux, Lean  |  **Web Development:** HTML, CSS, JavaScript
