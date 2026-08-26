@@ -27,3 +27,13 @@
         <p class="entry-meta"><em>July 2026</em>.</p>
     </div>
 </div>
+
+<div class="entry-card">
+    <img src="static/assets/img/projects/TRACER.png" alt="Agent4Lean Project">
+    <div class="entry-text">
+        <p class="entry-title">
+            🤖 <a href="https://github.com/runqi-allen-wang/TRACER-Typed-Repair-Agent-with-Compiler-validated-Example-Retrieval">TRACER: Typed Repair Agent with Compiler-validated Example Retrieval</a>
+        </p>
+        <p class="entry-meta"><em>August 2026, with Teng Lei, Yihan Lin, Zhewen Zhang, Bohan Zhao</em>.</p>
+    </div>
+</div>
