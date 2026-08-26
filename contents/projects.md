@@ -34,6 +34,6 @@
         <p class="entry-title">
             🤖 <a href="https://github.com/runqi-allen-wang/TRACER-Typed-Repair-Agent-with-Compiler-validated-Example-Retrieval">TRACER: Typed Repair Agent with Compiler-validated Example Retrieval</a>
         </p>
-        <p class="entry-meta"><em>August 2026, with Teng Lei, Yihan Lin, Zhewen Zhang, Bohan Zhao</em>.</p>
+        <p class="entry-meta"><em>August 2026</em>, with [Teng Lei](https://github.com/Rayleiteng)(GTIIT), [Yihan Lin](https://github.com/lyh233152)(SJTU), [Zhewen Zhang](https://github.com/WanderingAlgebra)(SEU), [Bohan Zhao](https://github.com/yk670407)(SJTU).</p>
     </div>
 </div>
