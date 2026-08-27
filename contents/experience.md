@@ -24,4 +24,4 @@
 
 - **Participant**, [SJTU AI4Math Summer School](https://sjtu-ai4math.github.io/summer-school/2026), *Aug 2026*.
 
-  Organizers: Prof. [Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0), Prof. Jingwei Liang, Prof. Jing An.
+  Organizers: Prof. [Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0), Prof. [Jingwei Liang](https://jliang993.github.io/), Prof. [Jing An](https://jingan1009.github.io/).
