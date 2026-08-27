@@ -2,7 +2,7 @@
 
 * **Unlearning Offline Stochastic Multi-Armed Bandits**, *Jul 2025 -- Feb 2026*.
 
-  Advisor: Prof. Xutong Liu, Prof. [Xuchuang Wang](https://xuchuangw.com/) (HKBU), Prof. [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) (UMass).
+  Advisor: Prof. Xutong Liu, Prof. [Xuchuang Wang](https://xuchuangw.com/) (HKBU), Prof. [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass Amherst), Prof. Shuai Li, Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) (UMass Amherst).
 
 * **Near-Optimal Regret for Efficient Stochastic Combinatorial Semi-Bandits**, *Feb 2025 -- Jun 2025*.
 
