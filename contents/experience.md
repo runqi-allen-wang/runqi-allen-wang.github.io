@@ -22,6 +22,6 @@
 
   Instructor: Prof. [Inna Okounkova](https://www.math.columbia.edu/mafn/mafn-faculty/) (Columbia University). Organizer: Prof. [Yiqing Lin](https://qf.sjtu.edu.cn/en/about/members/lin/).
 
-- **Participant**, [SJTU AI4Math Summer School](https://sjtu-ai4math.github.io/summer-school/2026), *Aug 2026*. [📝 Selected Notes](https://clarity-lat-moms-walk.trycloudflare.com/) by [Ziyu Zhou](https://github.com/subfish-zhou).
+- **Participant**, [SJTU AI4Math Summer School](https://sjtu-ai4math.github.io/summer-school/2026), *Aug 2026*. [📝 Selected Notes](https://clarity-lat-moms-walk.trycloudflare.com/) by Talker [Ziyu Zhou](https://github.com/subfish-zhou).
 
   Organizers: Prof. [Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0), Prof. [Jingwei Liang](https://jliang993.github.io/), Prof. [Jing An](https://jingan1009.github.io/).
