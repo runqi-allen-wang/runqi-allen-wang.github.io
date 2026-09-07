@@ -10,7 +10,7 @@
 
 ## 🏢 Industry Experience
 
-* **Quantitative Research Intern**, [Yuewei Private Equity Fund Management](https://yueweisimu.com/), Shanghai, *Jul 2026 -- present*.
+* **Quantitative Research Intern**, [Yuewei Private Equity Fund Management](https://yueweisimu.com/), Shanghai, *Jul 2026 -- Aug 2026*.
 
 ## 🏛️ Leadership Experience
 
