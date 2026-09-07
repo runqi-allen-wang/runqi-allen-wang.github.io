@@ -12,6 +12,8 @@
 
 * **Quantitative Research Intern**, [Yuewei Private Equity Fund Management](https://yueweisimu.com/), Shanghai, *Jul 2026 -- Aug 2026*.
 
+ 💪 Leader of **AURORA: Autonomous Unified Research, Optimization Reasoning Agent** – full‑stack development, agent infrastructure, and quant strategy research; all strategy outputs and system implementation were delivered by me. 
+
 ## 🏛️ Leadership Experience
 
 * **President**, [Student Union of the School of Mathematical Sciences](https://mp.weixin.qq.com/s/kDj2YUGfTdZ5QIB7F5E0Cg), Shanghai Jiao Tong University, *Dec 2024 -- Nov 2025*.
