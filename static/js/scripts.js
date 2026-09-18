@@ -57,7 +57,6 @@ function configurePage(config) {
     if (themeColor && config['accent-color']) themeColor.content = config['accent-color'];
 
     setText('page-top-title', config['page-top-title'] || config.author);
-    setText('hero-kicker', config['hero-kicker']);
     setText('top-section-bg-text', config['top-section-bg-text']);
     setText('copyright-text', config['copyright-text']);
 
