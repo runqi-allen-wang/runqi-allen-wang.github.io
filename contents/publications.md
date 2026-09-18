@@ -8,6 +8,7 @@
             Zichun Ye*, <strong>Runqi Wang*</strong>, <a href="https://xuchuangw.com/">Xuchuang Wang</a>, Xutong Liu, Shuai Li, <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a>.
         </p>
         <p class="entry-meta">In submission.</p>
+        <p class="entry-meta">We introduce machine unlearning for stochastic multi-armed bandits with offline data and establish provable unlearning guarantees.</p>
     </div>
 </div>
 
@@ -21,6 +22,7 @@
             <a href="https://alchemistye.github.io/">Zichun Ye</a>, <strong>Runqi Wang</strong>, <a href="https://xutongliu.me/">Xutong Liu</a>, <a href="https://shuaili8.github.io/">Shuai Li</a>.
         </p>
         <p class="entry-meta">In submission.</p>
+        <p class="entry-meta">We propose CMOSS, an efficient algorithm achieving near-optimal regret for stochastic combinatorial semi-bandits without the extra $\log T$ factor.</p>
     </div>
 </div>
 
