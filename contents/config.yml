@@ -1,5 +1,56 @@
-title: Runqi Wang's Homepage
+# Identity and metadata
+title: Runqi Wang — Academic Homepage
+description: Runqi Wang's academic homepage featuring research, projects, notes, and experience.
+author: Runqi Wang
+language: en
 page-top-title: Runqi Wang
-top-section-bg-text: About me
-home-subtitle: Runqi (Allen) Wang 王润祺
 
+# Hero and profile
+hero-kicker: Mathematics · Artificial Intelligence · Quantitative Research
+top-section-bg-text: Research, learning, and building in the open.
+home-subtitle: Runqi (Allen) Wang 王润祺
+profile-image: static/assets/img/photo.jpg
+profile-image-alt: Portrait of Runqi Wang
+background-image: static/assets/img/background.jpeg
+accent-color: "#3155d9"
+accent-color-dark: "#8fa5ff"
+
+# Links and footer
+cv-path: static/assets/CV.pdf
+repository-url: https://github.com/runqi-allen-wang/runqi-allen-wang.github.io
+license-url: LICENSE
+upstream-url: https://github.com/senli1073/academic-homepage-template
+copyright-text: © 2026 Runqi Wang. Personal content and media are not licensed for reuse.
+
+# Navigation and page sections. Each id loads contents/<id>.md.
+sections:
+  - id: home
+    nav: Home
+    title: Runqi (Allen) Wang 王润祺
+    href: "#page-top"
+    tone: light
+  - id: publications
+    nav: Publications
+    title: Publications
+    icon: bi-file-text
+    tone: muted
+  - id: projects
+    nav: Projects
+    title: Projects
+    icon: bi-folder2-open
+    tone: light
+  - id: notes
+    nav: Notes
+    title: Notes
+    icon: bi-journal-text
+    tone: muted
+  - id: experience
+    nav: Experience
+    title: Experience
+    icon: bi-briefcase
+    tone: light
+  - id: awards
+    nav: Awards
+    title: Awards
+    icon: bi-award
+    tone: muted
