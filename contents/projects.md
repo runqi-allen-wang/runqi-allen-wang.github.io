@@ -5,7 +5,7 @@
             📈 <a href="https://github.com/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection">Deep Sequential Models for Cross-Sectional Stock Selection</a>
         </p>
         <p class="entry-meta"><em>May 2026 -- Jun 2026</em>.</p>
-        <p class="entry-meta">Deep learning models for cross-sectional stock selection, including feature engineering, rank-label learning, chronological validation, and transaction-cost-aware backtesting.</p>
+        <p class="entry-meta">Comparison of different deep learning models for cross-sectional stock selection.</p>
     </div>
 </div>
 
