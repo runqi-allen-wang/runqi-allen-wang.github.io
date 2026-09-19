@@ -8,7 +8,8 @@
             Zichun Ye*, <strong>Runqi Wang*</strong>, <a href="https://xuchuangw.com/">Xuchuang Wang</a>, Xutong Liu, Shuai Li, <a href="https://groups.cs.umass.edu/hajiesmaili/">Mohammad Hajiesmaili</a>.
         </p>
         <p class="entry-meta">In submission.</p>
-        <p class="entry-meta">We introduce machine unlearning for stochastic multi-armed bandits with offline data and establish provable unlearning guarantees.</p>
+        <p class="entry-meta">We initiate the first systematic study of machine unlearning for stochastic multi-armed bandits with offline data, establishing provable unlearning guarantees across multiple settings.
+</p>
     </div>
 </div>
 
