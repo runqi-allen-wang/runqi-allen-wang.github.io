@@ -356,6 +356,21 @@ a:hover {
     font-weight: 700;
 }
 
+.entry-card .github-stars {
+    display: inline-flex;
+    margin-left: 0.45rem;
+    vertical-align: middle;
+}
+
+.entry-card .github-stars img {
+    width: auto;
+    height: 1.25rem;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    object-fit: contain;
+}
+
 .entry-card .entry-meta {
     margin: 0.2rem 0;
 }
