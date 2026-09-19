@@ -3,6 +3,9 @@
     <div class="entry-text">
         <p class="entry-title">
             📈 <a href="https://github.com/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection">Deep Sequential Models for Cross-Sectional Stock Selection</a>
+            <a class="github-stars" href="https://github.com/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View GitHub stars for Deep Sequential Models for Cross-Sectional Stock Selection">
+                <img src="https://img.shields.io/github/stars/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection?style=flat&amp;logo=github&amp;label=Stars" alt="GitHub stars for Deep Sequential Models for Cross-Sectional Stock Selection" loading="lazy">
+            </a>
         </p>
         <p class="entry-meta"><em>May 2026 -- Jun 2026</em>.</p>
         <p class="entry-meta">Comparison of different deep learning models for cross-sectional stock selection.</p>
@@ -14,6 +17,9 @@
     <div class="entry-text">
         <p class="entry-title">
             🤖 <a href="https://github.com/runqi-allen-wang/AlphaLens-A-Lightweight-Skill-based-Framework-for-Quantitative-Research-Analysis">AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis</a>
+            <a class="github-stars" href="https://github.com/runqi-allen-wang/AlphaLens-A-Lightweight-Skill-based-Framework-for-Quantitative-Research-Analysis/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View GitHub stars for AlphaLens">
+                <img src="https://img.shields.io/github/stars/runqi-allen-wang/AlphaLens-A-Lightweight-Skill-based-Framework-for-Quantitative-Research-Analysis?style=flat&amp;logo=github&amp;label=Stars" alt="GitHub stars for AlphaLens" loading="lazy">
+            </a>
         </p>
         <p class="entry-meta"><em>July 2026</em>.</p>
         <p class="entry-meta">AlphaLens is a lightweight Skill-based framework designed to analyze quantitative research reports from the perspective of a senior quantitative researcher.</p>
@@ -25,6 +31,9 @@
     <div class="entry-text">
         <p class="entry-title">
             🧩 <a href="https://github.com/runqi-allen-wang/TRACER-Typed-Repair-Agent-with-Compiler-validated-Example-Retrieval">TRACER: Typed Repair Agent with Compiler-validated Example Retrieval</a>
+            <a class="github-stars" href="https://github.com/runqi-allen-wang/TRACER-Typed-Repair-Agent-with-Compiler-validated-Example-Retrieval/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View GitHub stars for TRACER">
+                <img src="https://img.shields.io/github/stars/runqi-allen-wang/TRACER-Typed-Repair-Agent-with-Compiler-validated-Example-Retrieval?style=flat&amp;logo=github&amp;label=Stars" alt="GitHub stars for TRACER" loading="lazy">
+            </a>
         </p>
         <p class="entry-meta">
             <em>August 2026 -- present</em>, with
