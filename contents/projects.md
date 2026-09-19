@@ -1,18 +1,4 @@
 <div class="entry-card">
-    <img src="static/assets/img/projects/stock-selection.png" alt="Stock Selection Project">
-    <div class="entry-text">
-        <p class="entry-title">
-            📈 <a href="https://github.com/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection">Deep Sequential Models for Cross-Sectional Stock Selection</a>
-            <a class="github-stars" href="https://github.com/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection/stargazers" target="_blank" rel="noopener noreferrer" aria-label="View GitHub stars for Deep Sequential Models for Cross-Sectional Stock Selection">
-                <img src="https://img.shields.io/github/stars/runqi-allen-wang/Deep-Sequential-Models-for-Cross-Sectional-Stock-Selection?style=flat&amp;logo=github&amp;label=Stars" alt="GitHub stars for Deep Sequential Models for Cross-Sectional Stock Selection" loading="lazy">
-            </a>
-        </p>
-        <p class="entry-meta"><em>May 2026 -- Jun 2026</em>.</p>
-        <p class="entry-meta">Comparison of different deep learning models for cross-sectional stock selection.</p>
-    </div>
-</div>
-
-<div class="entry-card">
     <img src="static/assets/img/projects/AlphaLens.png" alt="QR Agent Skill Project">
     <div class="entry-text">
         <p class="entry-title">
