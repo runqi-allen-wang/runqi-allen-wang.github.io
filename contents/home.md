@@ -18,6 +18,8 @@ During my undergraduate studies, I have been fortunate to conduct research under
 ## 🎓 Education
 **Shanghai Jiao Tong University**  
 B.S. in Mathematics & Applied Mathematics and Artificial Intelligence  |  *Sep 2023 – Jun 2027 (expected)*  
+**Shanghai Jiao Tong University**  
+Ph.D. in Statistics  |  *Jul 2027 (expected) – Jun 2032 (expected)*  
 
 ## 🔍 Research Interests
 My research interests broadly lie in **machine learning, AI agents, and quantitative finance**, with a particular focus on **theoretical decision-making** and **AI-driven quantitative research**. On the theoretical side, I study sequential decision-making problems such as multi-armed bandits and reinforcement learning, including exploration–exploitation trade-offs, learning under data modification, and bandit-based strategic arbitrage under uncertainty. On the applied side, I am interested in developing AI agents and statistical learning methods for quantitative research, financial modeling, and data-driven investment decision-making.
